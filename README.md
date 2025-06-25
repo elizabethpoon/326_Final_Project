@@ -1,4 +1,5 @@
 Documentation 
+
 I. Explanation of the purpose of each file in our repository 
 ● bmi.csv - this table is interpreted as a Pandas DataFrame by the code and is used to complete average BMI calculations. It is a Table sourced from Kaggle, an information dataset site that has many different sample data and tables. 
 ● graph - Sheet 1.csv - this sheet is used by the code to produce the graph of a person’s weight loss over 15 months. It has a column of 60 weeks, 1 week per line. The code will create another column that has data that the code implements by shaving off a certain amount of calories per person’s weight. 
